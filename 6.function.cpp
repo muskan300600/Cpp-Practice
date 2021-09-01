@@ -1,6 +1,7 @@
 # include <iostream>
 using namespace std;
 
+//int sum(int,int) is also an acceptable format
 int sum(int a,int b){
     return a+b;
 }
