@@ -1,0 +1,19 @@
+[main] tempCodeRunnerFile 1000 (0) exception: trapped!
+[main] tempCodeRunnerFile 1000 (1) exception: code 0xC00000FD at 0x40D493
+[main] tempCodeRunnerFile 1000 (0) exception: ax 0x71C3750 bx 0x246FDCF cx 0x472D70 dx 0x91BF750
+[main] tempCodeRunnerFile 1000 (0) exception: si 0x48DFBA00 di 0x91BF740 bp 0x246FDBC sp 0x246FD68
+[main] tempCodeRunnerFile 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] tempCodeRunnerFile 1000 (0) stack: Stack trace:
+[main] tempCodeRunnerFile 1000 (0) stack: frame 0: sp = 0x246F350, pc = 0x6100A2C3
+[main] tempCodeRunnerFile 1000 (0) stack: frame 1: sp = 0x246F38C, pc = 0x77646B62
+[main] tempCodeRunnerFile 1000 (0) stack: frame 2: sp = 0x246F3B0, pc = 0x77646B34
+[main] tempCodeRunnerFile 1000 (0) stack: frame 3: sp = 0x246F810, pc = 0x77634A66
+[main] tempCodeRunnerFile 1000 (0) stack: frame 4: sp = 0x246FDBC, pc = 0x61004402
+[main] tempCodeRunnerFile 1000 (0) stack: frame 5: sp = 0x246FF48, pc = 0x61004420
+[main] tempCodeRunnerFile 1000 (0) stack: frame 6: sp = 0x246FF54, pc = 0x41329E
+[main] tempCodeRunnerFile 1000 (0) stack: frame 7: sp = 0x246FF64, pc = 0x40103A
+[main] tempCodeRunnerFile 1000 (0) stack: frame 8: sp = 0x246FF80, pc = 0x75848744
+[main] tempCodeRunnerFile 1000 (0) stack: frame 9: sp = 0x246FF94, pc = 0x776258ED
+[main] tempCodeRunnerFile 1000 (0) stack: frame 10: sp = 0x246FFDC, pc = 0x776258BD
+[main] tempCodeRunnerFile 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] tempCodeRunnerFile 1000 (0) stack: End of stack trace
